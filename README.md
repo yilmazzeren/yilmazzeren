@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋<a href="https://www.linkedin.com/in/y%C4%B1lmaz-zeren-91a977171/" target="_blank" rel="nofollow"><img alt="Yilmazzeren Linkedin" src="https://github.com/WaylonWalker/WaylonWalker/raw/main/icon/linkedin.png?raw=true"/></a>
 
 <!--
 **yilmazzeren/yilmazzeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
