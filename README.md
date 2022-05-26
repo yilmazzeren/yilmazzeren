@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **yilmazzeren/yilmazzeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+#### Currently working on 'React' projects. At the same time, I am developing projects with 'nodejs' on the 'backend' side.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
