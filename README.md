@@ -6,7 +6,4 @@
 
 ## Hi there 👋<a href="https://www.linkedin.com/in/y%C4%B1lmaz-zeren-91a977171/" target="_blank" rel="nofollow"><img alt="Yilmazzeren Linkedin" src="https://github.com/WaylonWalker/WaylonWalker/raw/main/icon/linkedin.png?raw=true"/></a>
 
-#### Currently working on 'React' projects. At the same time, I am developing projects with 'nodejs' on the 'backend' side.
 
-![yilmazzeren's Github Stats](https://github-readme-stats.vercel.app/api?username=yilmazzeren&show_icons=true&theme=dark&hide=prs&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yilmazzeren&layout=compact&theme=dark&hide_border=true)
